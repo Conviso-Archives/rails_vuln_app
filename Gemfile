@@ -7,6 +7,7 @@ gem 'rails', '3.2.13'
 
 gem 'execjs'
 gem 'therubyracer'
+gem 'bootstrap-sass'
 
 
 gem 'sqlite3'
